@@ -1,2 +1,2 @@
 # CompetitorList-in-Java
-a Competitor list withe information regarding sports details
+a Competitor list with information regarding sports details
